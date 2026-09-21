@@ -1,0 +1,79 @@
+Skip to content
+webos-proxyset
+Repository navigation
+Code
+Pull requests
+Actions
+webos-proxyset/css
+/proxyset.css
+author
+codepoet80
+4 years ago
+56 lines (51 loc) · 1.01 KB
+
+Code
+
+Blame
+/* TODO: put your application-specific CSS here */
+.header-icon {
+    width: 54px;
+	height: 48px;
+}
+.bigIcon {
+	width: 54px !important;
+    margin-left: -55px !important;
+	height: 48px;
+	background: url(../images/header-icon-proxy.png);
+}
+.smallIcon {
+	width: 54px !important;
+	height: 48px;
+	background: url(../images/header-icon-proxy-s.png);
+}
+
+.headerTitle {
+    padding-left:14px;
+}
+.headerTitleTouchpad {
+    padding-left: 3px !important;
+}
+
+.box-center {
+    max-width:500px;
+    margin:0px auto 0;
+}
+
+.footnote-text {
+	font-size:16px;
+	color:#666;
+	margin: -2px 5px 16px 10px;
+}
+
+.touchpad-margin {
+    margin-top: 23px;
+}
+
+.wifi-header-shadow,
+.wifi-footer-shadow {
+	position: absolute; 
+	z-index: 100;
+	height: 3px;
+	width: 100%;
+	pointer-events: none;
+}
+.wifi-header-shadow {
+	top: 54px;
+	background:transparent url('../images/light_chrome_drop_shadow_header.png') bottom repeat-x;
+}
+.wifi-footer-shadow {
+	bottom: 0;
+	height: 57px; 
+	background:transparent url('../images/light_chrome_drop_shadow_footer.png') top repeat-x;
+}
+ 
+helpers content loaded$ curl "https://api.ip2location.io/?key={YOUR_API_KEY}&ip=137.119.186.74"curl --silent --request POST --url https://xumm.app/api/v1/platform/ping \
+  --header 'authorization: Bearer ' \
+  --header 'content-type: application/json' \
+  --header 'x-api-key: 8b7c05a1-e555-42a6-aeed-05841389f9cf' \
+  --header 'x-api-secret: e925415a-a7fb-4aed-9d3e-9bb3487c6d0c' \
+  --data '{}' | python -m json.tool
