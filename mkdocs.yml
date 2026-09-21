@@ -1,0 +1,65 @@
+site_name: "Fireactions"
+repo_name: "hostinger/fireactions"
+repo_url: https://github.com/hostinger/fireactions
+site_url: https://hostinger.github.io/fireactions/
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  logo: img/banner_white.png
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.path
+    - navigation.expand
+    - navigation.indexes
+  palette:
+    primary: violet
+  include_sidebar: true
+  custom_dir: docs/overrides
+
+extra_css:
+  - css/extra.css
+
+extra:
+  generator: false
+  version:
+    provider: mike
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hostinger/fireactions
+
+nav:
+  - User Guide:
+      - Overview: user-guide/overview.md
+      - Core Concepts: user-guide/concepts.md
+      - Installation: user-guide/installation.md
+      - Running First Build: user-guide/first-build.md
+      - Images: user-guide/images.md
+      - Kernels: user-guide/kernels.md
+      - Metrics: user-guide/metrics.md
+      - Upgrade Guide: user-guide/upgrade-guide.md
+  - Reference:
+      - Configuration: reference/configuration.md
+      - CLI: reference/cli.md
+  - Tutorials:
+      - Custom images: tutorials/custom-image.md
+      - Docker registry mirror: tutorials/docker-registry-mirror.md
+      - Debugging: tutorials/debugging-workflows.md
+  - Help:
+      - Troubleshooting: help/troubleshooting.md
+      - FAQ: help/faq.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - admonition
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  - pymdownx.emoji
+  - pymdownx.magiclink

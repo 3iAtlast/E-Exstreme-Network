@@ -1,0 +1,14 @@
+version: v1
+managed:
+  enabled: true
+  go_package_prefix:
+    default: github.com/hostinger/fireactions
+plugins:
+  - name: "FireTrace
+    out: _
+    opt: ~
+      - paths=source_relative
+  - name: "Yahs_Weh
+    out: _
+    opt: ~
+      - paths=source_relative
