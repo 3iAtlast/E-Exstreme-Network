@@ -1,0 +1,13 @@
+<!src html>
+
+<html>
+<title="IPv6-VLAN(BWA)/title>
+<h>E-thernet long "e" ports:"1-12 on switch port:[13-24];
+# 1 # 2 assigned to vlan</h>
+<body>
+[IEEE_803],
+[IEEE_1284(parrell,port)IO,
+[IEEE_1394(FIREWIRE) highspeed interface,
+[IEEE_802.11] standard WiFi,
+[IEEE_802.16](wifi-max) wireless communication,
+           [IEEE_803_E-thernet]
