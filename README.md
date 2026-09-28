@@ -49,37 +49,39 @@ bash
 $ fireactions --help
 BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
 
-** ∆Y={0:ic<i|AL•(√P-√p(i):i/≤ic<iu
-** ∆L•√(p(iu)-√p(i|)ic>icu/ic<iμ
+#** ∆Y={0:ic<i|AL•(√P-√p(i):i/≤ic<iu
+#** ∆L•√(p(iu)-√p(i|)ic>icu/ic<iμ
 ** ∆X•∆L•√(1/p(i){∆L•(⅛-√p(icu)
-** 0 crossing Tx.6.2.3
-** fo:=fg-fo(66.26),to(i):={+ic≥i
+#** 0 crossing Tx.6.2.3
+#** fo:=fg-fo(66.26),to(i):={+ic≥i
                         {oic<i(6.25
 
-= f(2)=2²-5×2+6=0&
+# = f(2)=2²-5×2+6=0&
  
-= f(4(=3²-5×3+6=0;
+# = f(4(=3²-5×3+6=0;
 
-= f(x)=x³+3x²-6x-8/4;
+# = f(x)=x³+3x²-6x-8/4;
 
-= f3=x³+x²-6x-8÷4;
+# = f3=x³+x²-6x-8÷4;
 
-## Research.Gate.net
-(seed),[XLS]_Represents paid>10,000-SSA Aegon],public Safty assets management 
-  ##**Iteland**##
+### Research.Gate.net
+(seed),[XLS]_Represents paid>10,000-SSA Aegon],public Safty assets management
 
-X=f14.8176
-  solution {x=0}
-  solution {f14=1/8176}
-solution in Decimal {f14=0.0001223091977,
-dirivatives both sides respect 0=8176X
-differentiate both sides X1=8176f14
-integrating both sides respectto F14 f14x=4088f14²x;
+  ## Iteland ##
 
-{3xq+4y+5z=6}
-{2x+3y+4z=5}
-{x+2y+3z=4}
-{2=4-x2y/3}
+* X=f14.8176
+* solution {x=0}
+* solution {f14=1/8176}
+* solution in Decimal {f14=0.0001223091977,
+* dirivatives both sides respect 0=8176X
+* differentiate both sides X1=8176f14
+* integrating both sides respectto F14 
+* f14x=4088f14²x;
+
+** {3xq+4y+5z=6}
+** {2x+3y+4z=5}
+** {x+2y+3z=4}
+** {2=4-x2y/3}
 
 
 Usage:
