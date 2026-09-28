@@ -74,7 +74,14 @@ X=f14.8176
 solution in Decimal {f14=0.0001223091977,
 dirivatives both sides respect 0=8176X
 differentiate both sides X1=8176f14
-integrating both sides respectto F14 f14x=4088f14²x
+integrating both sides respectto F14 f14x=4088f14²x;
+
+{3xq+4y+5z=6}
+{2x+3y+4z=5}
+{x+2y+3z=4}
+{2=4-x2y/3}
+
+
 Usage:
   fireactions [command]
 
