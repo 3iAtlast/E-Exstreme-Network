@@ -56,6 +56,18 @@ BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fas
 ** fo:=fg-fo(66.26),to(i):={+ic≥i
                         {oic<i(6.25
 
+= f(2)=2²-5×2+6=0&
+ 
+= f(4(=3²-5×3+6=0;
+
+= f(x)=x³+3x²-6x-8/4;
+
+= f3=x³+x²-6x-8÷4;
+
+## Research.Gate.net
+(seed),[XLS]_Represents paid>10,000-SSA Aegon],public Safty assets management 
+  ##**Iteland**##
+
 Usage:
   fireactions [command]
 
