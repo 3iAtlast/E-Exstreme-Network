@@ -87,4 +87,54 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute
 
 ## License
 
-See [LICENSE](LICENSE)
+def rotation_matrix(theta):
+    c, s = np.cos(theta), np.sin(theta)
+    return np.array([[c, -s],
+                     [s,  c]])
+
+theta = np.pi / 4   # 45 degrees
+R = rotation_matrix(theta)
+
+# Apply to a vector
+v = np.array([1.0, 0.0])
+v_rotated = R @ v
+print("Rotated vector:", v_rotated)# Computational basis
+ket0 = np.array([1, 0], dtype=complex)
+ket1 = np.array([0, 1], dtype=complex)
+
+# Hadamard action
+plus  = H @ ket0          # |+>
+minus = H @ ket1          # |->
+
+# X gate action
+print("X|0> =", X @ ket0)   # should be |1>
+print("X|1> =", X @ ket1)   # should be |0>def rc_current(t, E, R, tau):
+    """i(t) = (E/R) * (1 - exp(-t/tau))"""
+    return (E / R) * (1 - np.exp(-t / tau))
+
+t = np.linspace(0, 5*0.01, 500)
+i = rc_current(t, E=12, R=4.7, tau=0.01)# From one of your pages: X = (Y - 3) / 2
+def final_result(Y):
+    return (Y - 3) / 2
+
+# Infinite series fragment ∑ X_n / n!
+from math import factorial
+
+def series_approx(X, terms=20):
+    return sum(X**n / factorial(n) for n in range(terms))
+
+// Rough translation of the control-flow notes
+function applicationX(options) {
+  // replace = option
+  let value = options.replace || null;
+
+  if (!value) {
+    // ! # ! # end if  style guard
+    return null;
+  }
+
+  // trusted-click-element + transform idea
+  const transformed = U_transform(value);
+  return transformed;
+}
+options.replace.
