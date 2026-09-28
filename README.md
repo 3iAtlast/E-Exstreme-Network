@@ -180,3 +180,27 @@ function applicationX(options) {
   return transformed;
 }
 options.replace.
+
+### <!doctype html3>
+
+## <html3>
+## <tr>
+## <td>
+## <th>
+
+### IncomeQ3>Defined By $A$3 Absolute Cell Reference "enter",123".
+
+### In Cell May Automatically Change To"$123.00".
+
+### Press Tab Or Enter Or Click Outside The Cell.
+Active Cell Is Formatted For Data Or A Text.
+Text"1/2/3" 
+### May Change To "01/02/2003".
+Cell A20 May Contain
+### A Formula That Produces The Result Of The Summation Of Cells A1-A25.
+Cell 5 May Contain 
+### A Formula That Averages All The Numbers In The B Column.
+### AAAA.
+# AAC videos "live" Or "on-the-fly".
+Often Use H.264,HEVC,or VP9.
+[#page:one#]
