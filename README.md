@@ -79,15 +79,13 @@ Flags:
 Use "fireactions [command] --help" for more information about a command.
 ```
 
-See the [User Guide](https://fireactions.io/latest/) for installation and configuration instructions.
+See the [Guide](https://fireactions.io/latest/) for installation and configuration instructions.
 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to Fireactions.
 
-## License
-
-def rotation_matrix(theta):
+`` def rotation_matrix(theta):
     c, s = np.cos(theta), np.sin(theta)
     return np.array([[c, -s],
                      [s,  c]])
