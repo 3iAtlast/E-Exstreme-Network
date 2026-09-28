@@ -70,6 +70,11 @@ BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fas
 
 X=f14.8176
   solution {x=0}
+  solution {f14=1/8176}
+solution in Decimal {f14=0.0001223091977,
+dirivatives both sides respect 0=8176X
+differentiate both sides X1=8176f14
+integrating both sides respectto F14 f14x=4088f14²x
 Usage:
   fireactions [command]
 
