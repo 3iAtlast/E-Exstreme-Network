@@ -84,8 +84,8 @@ See the [Guide](https://fireactions.io/latest/) for installation and configurati
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to Fireactions.
-
-`` def rotation_matrix(theta):
+```
+ def rotation_matrix(theta):
     c, s = np.cos(theta), np.sin(theta)
     return np.array([[c, -s],
                      [s,  c]])
