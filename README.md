@@ -45,7 +45,7 @@ Several key features:
 
 ## Quickstart
 
-```bash
+bash
 $ fireactions --help
 BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
 
@@ -68,6 +68,8 @@ BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fas
 (seed),[XLS]_Represents paid>10,000-SSA Aegon],public Safty assets management 
   ##**Iteland**##
 
+X=f14.8176
+  solution {x=0}
 Usage:
   fireactions [command]
 
