@@ -49,6 +49,13 @@ Several key features:
 $ fireactions --help
 BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
 
+** ∆Y={0:ic<i|AL•(√P-√p(i):i/≤ic<iu
+** ∆L•√(p(iu)-√p(i|)ic>icu/ic<iμ
+** ∆X•∆L•√(1/p(i){∆L•(⅛-√p(icu)
+** 0 crossing Tx.6.2.3
+** fo:=fg-fo(66.26),to(i):={+ic≥i
+                        {oic<i(6.25
+
 Usage:
   fireactions [command]
 
