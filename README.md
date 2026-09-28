@@ -83,6 +83,15 @@ BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fas
 ** {x+2y+3z=4}
 ** {2=4-x2y/3}
 
+× √5.√2.4/2√5x
+
+× √5.√2.2
+
+× 5.x/✓√x/x.2
+
+× vertical asymptotes: x=0
+× horizontal asymptotes: y=0
+
 
 Usage:
   fireactions [command]
