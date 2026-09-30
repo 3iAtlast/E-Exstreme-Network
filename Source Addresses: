@@ -20,3 +20,54 @@
 [#x10FFFE-#x10FFFF].[1 > > I]
 [ 1 > i]
    <[{Type Set Form ["i"]: Can Be Entered As ["esc"];"i"["esc"];(for"imaginary,"i")}]>
+import math
+
+def rhombus(alpha_deg, a=1.0, I=1.0):
+    al = math.radians(alpha_deg)
+    p = 2 * a * math.sin(al / 2)          # short diagonal
+    q = 2 * a * math.cos(al / 2)          # long diagonal
+    area_sin = a**2 * math.sin(al)        # a² sin α
+    area_diag = p * q / 2                 # pq/2 (cross-check)
+    s = math.sin(al)
+    return {
+        "unit_circle": (math.cos(al), s),                 # point (cos α, sin α)
+        "perimeter": 4 * a,
+        "diagonals": (p, q),
+        "area": area_sin,
+        "areas_agree": math.isclose(area_sin, area_diag, abs_tol=1e-12),
+        "inradius": p * q / (2 * math.sqrt(p**2 + q**2)), # = a·sin α / 2
+        "moment": I * area_sin,                           # m = I·A
+        "cot": "undefined" if abs(s) < 1e-12 else math.cos(al) / s,
+    }
+
+for angle in (0, 45, 90, 135, 180):                       # the snap points
+    print(angle, rhombus(angle))public boolean isValidBST(TreeNode root) {
+    return check(root, Long.MIN_VALUE, Long.MAX_VALUE);
+}
+
+private boolean check(TreeNode node, long lo, long hi) {
+    if (node == null) return true;
+    if (node.val <= lo || node.val >= hi) return false;
+    return check(node.left, lo, node.val)
+        && check(node.right, node.val, hi);
+}public List<String> paths(TreeNode root) {
+    List<String> out = new ArrayList<>();
+    walk(root, "", out);
+    return out;
+}
+
+private void walk(TreeNode n, String path, List<String> out) {
+    if (n == null) return;
+    path += n.val;
+    if (n.left == null && n.right == null) out.add(path);
+    else {
+        walk(n.left, path + "->", out);
+        walk(n.right, path + "->", out);
+    }
+}import numpy as np
+
+H = np.array([[1, 1], [1, -1]]) / np.sqrt(2)
+I = np.eye(2)
+HH = np.kron(H, H)                     # Hadamard on both qubits
+print(np.kron([[1,2,3],[4,5,6]], np.ones((2,2))))   # your 4x6 block matrix
+print(np.allclose(HH @ HH.conj().T, np.eye(4)))     # True: unitary1
