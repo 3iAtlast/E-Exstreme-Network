@@ -49,9 +49,9 @@ bash
 $ fireactions --help
 BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
 
-://api.ip2location.io/?ip=127.0.0.1')
+https://api.ip2location.io/?ip=127.0.0.1')
 
-{
+##№ {
     "ip": "127.0.0.1",
     "country_code": "-",
     "country_name": "-",
