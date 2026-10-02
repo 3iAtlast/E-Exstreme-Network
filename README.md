@@ -48,6 +48,15 @@ Several key features:
 bash
 $ fireactions --help
 BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
+
+ --StartSwitch("-'1*");
+    --End("*,-'1*);
+** seqence: "*1*123*"
+## Lï17īD D5 F7ßîœñ: " fusia energy Release ½MaVa²+½MbV²/b=ᐛD-D-fusia carrys 75% energy,
+Bio-metric: PnPoe-mgh/kT
+<=∞=><∞>
+[FirebaseApp.AUTH()
+[getauth()Firebaseapp][authdomain]measure ID
 ```
 <!DOCTYPE html>
 <html lang="en-US"> 
