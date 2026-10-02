@@ -1,4 +1,4 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/hostinger/fireactions)](https://goreportcard.com/report/github.com/hostinger/fireactions)
+l[![Go Report Card](https://goreportcard.com/badge/github.com/hostinger/fireactions)](https://goreportcard.com/report/github.com/hostinger/fireactions)
 
 ![Banner](docs/img/banner_violet.png)
 
@@ -48,6 +48,130 @@ Several key features:
 bash
 $ fireactions --help
 BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
+
+<!DOCTYPE html>
+<html lang="en-US"> <head><meta charset="UTF-8"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><script>document.seraph_accel_usbpb=document.createElement;seraph_accel_izrbpb={add:function(b,a=10){void 0===this.a[a]&&(this.a[a]=[]);this.a[a].push(b)},a:{}}</script> <title>Energy Infrastructure &amp; Utility Services | Centuri</title> <meta http-equiv="x-ua-compatible" content="ie=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <meta name="format-detection" content="telephone=no"> <script async src="https://www.googletagmanager.com/gtag/js?id=G-YBBV48SHVE" type="o/js-lzl"></script> <script type="o/js-lzl">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YBBV48SHVE');
+          </script> <script type="o/js-lzl">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5LNVMH89');</script> <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"> <meta name="description" content="We are an infrastructure company that builds &amp; maintains energy networks for utilities, focusing on sustainable and clean energy solutions across North America."> <link rel="canonical" href="https://centuri.com/"> <meta property="og:locale" content="en_US"> <meta property="og:type" content="website"> <meta property="og:title" content="Energy Infrastructure &amp; Utility Services | Centuri"> <meta property="og:description" content="We are an infrastructure company that builds &amp; maintains energy networks for utilities, focusing on sustainable and clean energy solutions across North America."> <meta property="og:url" content="https://centuri.com/"> <meta property="og:site_name" content="Centuri"> <meta property="article:publisher" content="https://www.facebook.com/CenturiGroup"> <meta property="article:modified_time" content="2026-08-20T18:04:59+00:00"> <meta name="twitter:card" content="summary_large_image"> <meta name="twitter:site" content="@nextcenturi"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/centuri.com\/","url":"https:\/\/centuri.com\/","name":"Energy Infrastructure & Utility Services | Centuri","isPartOf":{"@id":"https:\/\/centuri.com\/#website"},"about":{"@id":"https:\/\/centuri.com\/#organization"},"datePublished":"2022-08-29T20:28:00+00:00","dateModified":"2026-08-20T18:04:59+00:00","description":"We are an infrastructure company that builds & maintains energy networks for utilities, focusing on sustainable and clean energy solutions across North America.","breadcrumb":{"@id":"https:\/\/centuri.com\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/centuri.com\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/centuri.com\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/centuri.com\/#website","url":"https:\/\/centuri.com\/","name":"Centuri","description":"Think Ahead","publisher":{"@id":"https:\/\/centuri.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/centuri.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/centuri.com\/#organization","name":"Centuri","url":"https:\/\/centuri.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/centuri.com\/#\/schema\/logo\/image\/","url":"https:\/\/centuri.com\/wp-content\/uploads\/2022\/09\/Centuri-Primary-Logo-Horizontal.svg","contentUrl":"https:\/\/centuri.com\/wp-content\/uploads\/2022\/09\/Centuri-Primary-Logo-Horizontal.svg","width":175,"height":44,"caption":"Centuri"},"image":{"@id":"https:\/\/centuri.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/CenturiGroup","https:\/\/x.com\/nextcenturi"]}]}</script> <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://centuri.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcenturi.com%2F"> <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://centuri.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcenturi.com%2F&amp;format=xml">       <script id="jquery-core-js" src="https://centuri.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" type="o/js-lzl"></script> <link rel="https://api.w.org/" href="https://centuri.com/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://centuri.com/wp-json/wp/v2/pages/5"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://centuri.com/xmlrpc.php?rsd"> <link rel="shortlink" href="https://centuri.com/">  <script type="o/js-lzl">document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('button, a.button, .btn, [role="button"]').forEach(function (el) {
+        el.addEventListener('click', function (e) {
+            var target = el.getAttribute('href') || el.dataset.href || el.dataset.url;
+            if (target) {
+                e.preventDefault();
+                window.location.href = target;
+                return;
+            }
+
+            // If it's meant to submit a form
+            var form = el.closest('form');
+            if (form) {
+                e.preventDefault();
+                if (typeof form.requestSubmit === 'function') {
+                    form.requestSubmit();
+                } else {
+                    form.submit();
+                }
+            }
+        }, true);
+    });
+});
+
+document.querySelectorAll('.menu-item-has-children > a').forEach(link => {
+
+    link.onclick = function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+
+        const submenu = this.nextElementSibling;
+
+        if (submenu.style.display === 'block') {
+            submenu.style.display = 'none';
+            this.setAttribute('aria-expanded', 'false');
+        } else {
+            submenu.style.display = 'block';
+            this.setAttribute('aria-expanded', 'true');
+        }
+
+        return false;
+    };
+
+});
+
+let timer;
+
+document.querySelectorAll('.menu-item-has-children').forEach(item => {
+    const submenu = item.querySelector('.sub-menu');
+    if (!submenu) return;
+
+    item.addEventListener('mouseenter', () => {
+        clearTimeout(timer);
+        submenu.style.display = 'block';
+    });
+
+    item.addEventListener('mouseleave', () => {
+        timer = setTimeout(() => {
+            submenu.style.display = 'none';
+        }, 250); // Adjust 250–400ms if needed
+    });
+
+    submenu.addEventListener('mouseenter', () => {
+        clearTimeout(timer);
+        submenu.style.display = 'block';
+    });
+});
+</script><script type="o/js-lzl">
+function openPopup(e) {
+  e.preventDefault(); // prevent default link behavior
+  const url = e.currentTarget.href;
+  window.open(
+    url,
+    'instagramPopup',
+    'width=600,height=600,scrollbars=yes,resizable=yes',
+  );
+}
+</script><script type="o/js-lzl">document.addEventListener('DOMContentLoaded', function () {
+    // Get all the list items inside .data-area
+    var listItems = document.querySelectorAll('.data-area li');
+    
+    // Loop through each item
+    listItems.forEach(function(item) {
+      var label = item.querySelector('.label');
+      
+      // Check the label content and adjust the width accordingly
+      if (label) {
+        if (label.textContent.trim() === 'Capabilities' || label.textContent.trim() === 'Capability') {
+          item.style.width = '100%';  // Set width to 100% for Capabilities
+        } else if (label.textContent.trim() === 'Completion') {
+          item.style.width = '30%';   // Set width to 30% for Completion
+        } else {
+          item.style.width = 'auto';  // Default width for other items
+        }
+      }
+    });
+  });
+
+</script><script type="o/js-lzl">document.addEventListener('DOMContentLoaded', function () {
+    // Get all the list items inside .data-area
+    var listItems = document.querySelectorAll('.single-project .data-area li');
+    
+    // Loop through each item
+    listItems.forEach(function(item) {
+      var label = item.querySelector('.label');
+      
+      // Check if the label text is "Company"
+      if (label && label.textContent.trim() === 'Company') {
+        item.style.display = 'none';  // Hide the item
+      }
+    });
+  });
+</script><link rel="icon" href="https://centuri.com/wp-content/uploads/2023/10/centuri-avatar-symbol-2x.webp" sizes="32x32"> <link rel="icon" href="https://centuri.com/wp-content/uploads/2023/10/centuri-avatar-symbol-2x.webp" sizes="192x192"> <link rel="apple-touch-icon" href="https://centuri.com/wp-content/uploads/2023/10/centuri-avatar-symbol-2x.webp"> <meta name="msapplication-TileImage" content="https://centuri.com/wp-content/uploads/2023/10/centuri-avatar-symbol-2x.webp">    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script> <noscript><style>.lzl{display:none!important;}</style></noscript><style>img.lzl,img.lzl-ing{opacity:0.01;}img.lzl-ed{transition:opacity .25s ease-in-out;}</style><style id="wp-img-auto-sizes-contain-inline-css">img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}</style><style id="classic-theme-styles-inline-css"></style><link id="classic-theme-styles-inline-css-nonCrit" rel="stylesheet/lzl-nc" href="/wp-content/cache/seraphinite-accelerator/s/m/d/css/2/0b/431ab6ecd62bdb35135b32eb9456a.100.css"><noscript lzl=""><link rel="stylesheet" href="/wp-content/cache/seraphinite-accelerator/s/m/d/css/2/0b/431ab6ecd62bdb35135b32eb9456a.100.css"></noscript><style id="global-styles-inline-css">:root{--wp--preset--aspect-ratio--square:1;--wp--preset--aspect-ratio--4-3:4/3;--wp--preset--aspect-ratio--3-4:3/4;--wp--preset--aspect-ratio--3-2:3/2;--wp--preset--aspect-ratio--2-3:2/3;--wp--preset--aspect-ratio--16-9:16/9;--wp--preset--aspect-ratio--9-16:9/16;--wp--preset--color--black:#000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#fff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,#0693e3 0%,#9b51e0 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,#7adcb4 0%,#00d082 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,#fcb900 0%,#ff6900 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,#ff6900 0%,#cf2e2e 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,#eee 0%,#a9b8c3 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,#4aeadc 0%,#9778d1 20%,#cf2aba 40%,#ee2c82 60%,#fb6962 80%,#fef84c 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,#ffceec 0%,#9896f0 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,#fecda5 0%,#fe2d2d 50%,#6b003e 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,#ffcb70 0%,#c751c0 50%,#4158d0 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,#fff5cb 0%,#b6e3d4 50%,#33a7b5 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,#caf880 0%,#71ce7e 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,#020381 0%,#2874fc 100%);--wp--preset--font-size--small:13px;--wp--preset--font-size--medium:20px;--wp--preset--font-size--large:36px;--wp--preset--font-size--x-large:42px;--wp--preset--spacing--20:.44rem;--wp--preset--spacing--30:.67rem;--wp--preset--spacing--40:1rem;--wp--preset--spacing--50:1.5rem;--wp--preset--spacing--60:2.25rem;--wp--preset--spacing--70:3.38rem;--wp--preset--spacing--80:5.06rem;--wp--preset--shadow--natural:6px 6px 9px rgba(0,0,0,.2);--wp--preset--shadow--deep:12px 12px 50px rgba(0,0,0,.4);--wp--preset--shadow--sharp:6px 6px 0px rgba(0,0,0,.2);--wp--preset--shadow--outlined:6px 6px 0px -3px #fff,6px 6px #000;--wp--preset--shadow--crisp:6px 6px 0px #000}:where(body){margin:0}body{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0}</style><link id="global-styles-inline-css-nonCrit" rel="stylesheet/lzl-nc" href="/wp-content/cache/seraphinite-accelerator/s/m/d/css/2/9f/4520c499f90d7265c0a9a6ecb2f11.174a.css"><noscript lzl=""><link rel="stylesheet" href="/wp-content/cache/seraphinite-accelerator/s/m/d/css/2/9f/4520c499f90d7265c0a9a6ecb2f11.174a.css"></noscript><style id="cff-css-crit" media="all">#cff{float:left;width:100%;margin:0 auto;padding:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.cff-header .fa,.cff-header svg{margin:0 10px 0 0;padding:0}.cff-visual-header .cff-likes-box .cff-square-logo svg{width:18px;vertical-align:top}.cff-visual-header .cff-bio-info svg{display:inline-block;width:1em;vertical-align:middle;position:relative;top:-2px}.cff-posts-count svg{padding-right:3px}#cff .cff-post-desc,#cff h3,#cff h4,#cff h5,#cff h6,#cff p{float:left;width:100%;clear:both;padding:0;margin:5px 0;word-wrap:break-word}#cff .cff-share-tooltip a .fa,#cff .cff-share-tooltip a svg{font-size:16px;margin:0;padding:5px}#cff #cff-error-reason{display:none;padding:5px 0 0;clear:both}.sb-elementor-cta-img span svg{width:32px;fill:#257ab2;float:left!important}</style><link rel="stylesheet/lzl-nc" id="cff-css" href="https://centuri.com/wp-content/cache/seraphinite-accelerator/s/m/d/css/5/4c/8173b692035e7bad094c1c27cea29.646d.css" media="all"><noscript lzl=""><link rel="stylesheet" href="https://centuri.com/wp-content/cache/seraphinite-accelerator/s/m/d/css/5/4c/8173b692035e7bad094c1c27cea29.646d.css" media="all"></noscript><style id="sb-font-awesome-css-crit" media="all">@font-face{font-family:"FontAwesome";src:url("/wp-content/plugins/custom-facebook-feed/assets/css/../fonts/fontawesome-webfont.eot?v=4.7.0");src:url("/wp-content/plugins/custom-facebook-feed/assets/css/../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0") format("embedded-opentype"),url("/wp-content/plugins/custom-facebook-feed/assets/css/../fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"),url("/wp-content/plugins/custom-facebook-feed/assets/css/../fonts/fontawesome-webfont.woff?v=4.7.0") format("woff"),url("/wp-content/plugins/custom-facebook-feed/assets/css/../fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"),url("/wp-content/plugins/custom-facebook-feed/assets/css/../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular") format("svg");font-weight:400;font-style:normal;font-display:swap}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}</style><link rel="stylesheet/lzl-nc" id="sb-font-awesome-css" href="https://centuri.com/wp-content/cache/seraphinite-accelerator/s/m/d/css/8/33/f0795fc8d6e5fe5b063ca4f169e1d.6fa6.css" media="all"><noscript lzl=""><link rel="stylesheet" href="https://centuri.com/wp-content/cache/seraphinite-accelerator/s/m/d/css/8/33/f0795fc8d6e5fe5b063ca4f169e1d.6fa6.css" media="all"></noscript><style id="izi-main-css-crit" media="all">html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}.bg-black{background:#000}.row{box-sizing:border-box;display:flex;flex:0 1 auto;flex-direction:row;flex-wrap:wrap;margin-right:-1rem;margin-left:-1rem;width:auto}.col-xs,.col-xs-1,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.col-xs-10,.col-xs-11,.col-xs-12{box-sizing:border-box;flex:0 0 auto;padding-right:1rem;padding-left:1rem}.col-xs-1{flex-basis:8.333%;max-width:8.333%}.col-xs-2{flex-basis:16.667%;max-width:16.667%}.col-xs-3{flex-basis:25%;max-width:25%}.col-xs-4{flex-basis:33.333%;max-width:33.333%}.col-xs-5{flex-basis:41.667%;max-width:41.667%}.col-xs-6{flex-basis:50%;max-width:50%}.col-xs-7{flex-basis:58.333%;max-width:58.333%}.col-xs-8{flex-basis:66.667%;max-width:66.667%}.col-xs-9{flex-basis:75%;max-width:75%}.col-xs-10{flex-basis:83.333%;max-width:83.333%}.col-xs-11{flex-basis:91.667%;max-width:91.667%}.col-xs-12{flex-basis:100%;max-width:100%}@media only screen and (min-width:769px){.col-sm,.col-sm-1,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12{box-sizing:border-box;flex:0 0 auto;padding-right:1rem;padding-left:1rem}.col-sm-1{flex-basis:8.333%;max-width:8.333%}.col-sm-2{flex-basis:16.667%;max-width:16.667%}.col-sm-3{flex-basis:25%;max-width:25%}.col-sm-4{flex-basis:33.333%;max-width:33.333%}.col-sm-5{flex-basis:41.667%;max-width:41.667%}.col-sm-6{flex-basis:50%;max-width:50%}.col-sm-7{flex-basis:58.333%;max-width:58.333%}.col-sm-8{flex-basis:66.667%;max-width:66.667%}.col-sm-9{flex-basis:75%;max-width:75%}.col-sm-10{flex-basis:83.333%;max-width:83.333%}.col-sm-11{flex-basis:91.667%;max-width:91.667%}.col-sm-12{flex-basis:100%;max-width:100%}}@media only screen and (min-width:993px){.col-md,.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12{box-sizing:border-box;flex:0 0 auto;padding-right:1rem;padding-left:1rem}.col-md-1{flex-basis:8.333%;max-width:8.333%}.col-md-2{flex-basis:16.667%;max-width:16.667%}.col-md-3{flex-basis:25%;max-width:25%}.col-md-4{flex-basis:33.333%;max-width:33.333%}.col-md-5{flex-basis:41.667%;max-width:41.667%}.col-md-6{flex-basis:50%;max-width:50%}.col-md-7{flex-basis:58.333%;max-width:58.333%}.col-md-8{flex-basis:66.667%;max-width:66.667%}.col-md-9{flex-basis:75%;max-width:75%}.col-md-10{flex-basis:83.333%;max-width:83.333%}.col-md-11{flex-basis:91.667%;max-width:91.667%}.col-md-12{flex-basis:100%;max-width:100%}}.link,.editor-content a:not(.button),.content-editor a:not(.button),#tinymce a:not(.button){color:var(--theme-color--text-links-tile-headings-tile-border-hover-post-details);transition:250ms;font-weight:700;outline:1px solid transparent;outline-offset:2px}.link:hover,.editor-content a:hover:not(.button),.content-editor a:hover:not(.button),#tinymce a:hover:not(.button),.link:focus,.editor-content a:focus:not(.button),.content-editor a:focus:not(.button),#tinymce a:focus:not(.button){text-decoration:none;color:#000;outline:1px solid}.dark-background .link,.dark-background .editor-content a:not(.button),.editor-content .dark-background a:not(.button),.dark-background .content-editor a:not(.button),.content-editor .dark-background a:not(.button),.dark-background #tinymce a:not(.button),#tinym
 ```🔥
 https://api.ip2location.io/?ip=127.0.0.1
 {
