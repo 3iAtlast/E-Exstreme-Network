@@ -48,7 +48,7 @@ Several key features:
 bash
 $ fireactions --help
 BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
-
+```
 <!DOCTYPE html>
 <html lang="en-US"> 
 <head>
