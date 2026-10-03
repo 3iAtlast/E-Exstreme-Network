@@ -58,7 +58,7 @@ Bio-metric: PnPoe-mgh/kT
 <=∞=><∞>
 [FirebaseApp.AUTH()
 [getauth()Firebaseapp][authdomain]measure ID
-```
+
 <!DOCTYPE html>
 <html lang="en-US"> 
 <head>
