@@ -56,37 +56,36 @@ BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fas
 ## Lï17īD D5 F7ßîœñ: " fusia energy Release ½MaVa²+½MbV²/b=ᐛD-D-fusia carrys 75% energy,
 Bio-metric: PnPoe-mgh/kT
 <=∞=><∞>
-[FirebaseApp.AUTH()
-[getauth()Firebaseapp][authdomain]measure ID
+### [FirebaseApp.AUTH()
+### [getauth()Firebaseapp][authdomain]measure ID
 
 <!DOCTYPE html>
 <html lang="en-US"> 
 <head>
-<meta charset="UTF-8"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta charset="UTF-8"><meta ### http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
-# IEEE: 802.16: (wifi-max)wireless-communication
+### IEEE: 802.16: (wifi-max)wireless-communication
 
-# E:\/volume/medical>
+### E:\/volume/medical>
 
 • windows(DOS): [c:\>]
 • OS_X(BASHSHELL): my-imac:/me$
 • Linux(BASHSHELL)[root@myserver/]#
 
-  #   function double (x)
+ ###   function double (x)
 {
     $y = 2*x;
     return $y;
 }
-  #  mac address: 00:0d:83:b1:c0:8e
-  #  bits: 1010_1111
+  ###  mac address: 00:0d:83:b1:c0:8e
+  ###  bits: 1010_1111
 - bb74
 - BB74
 - IEEE-1394,FIREWIRE,HIGHSPEED:
 <dir>
 <1s>
- # String: "1010" (s): i = 0
-
-## <script>document.seraph_accel_usbpb=document.createElement;seraph_accel_izrbpb={add:function(b,a=10){void 0===this.a[a]&&(this.a[a]=[]);this.a[a].push(b)},a:{}}</script> 
+ ### String: "1010" (s): i = 0
+``` <script>document.seraph_accel_usbpb=document.createElement;seraph_accel_izrbpb={add:function(b,a=10){void 0===this.a[a]&&(this.a[a]=[]);this.a[a].push(b)},a:{}}</script> 
 <title>Energy Infrastructure &amp; Utility Services | Centuri</title> <meta 
 
 ## http-equiv="x-ua-compatible" content="ie=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> 
