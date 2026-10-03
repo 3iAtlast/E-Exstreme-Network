@@ -79,20 +79,38 @@ Bio-metric: PnPoe-mgh/kT
 }
   ###  mac address: 00:0d:83:b1:c0:8e
   ###  bits: 1010_1111
-- bb74
-- BB74
-- IEEE-1394,FIREWIRE,HIGHSPEED:
+
+-- bb74
+
+-- BB74
+
+-- IEEE-1394,FIREWIRE,HIGHSPEED:
+
 <dir>
+
 <1s>
- ### String: "1010" (s): i = 0
-``` <script>document.seraph_accel_usbpb=document.createElement;seraph_accel_izrbpb={add:function(b,a=10){void 0===this.a[a]&&(this.a[a]=[]);this.a[a].push(b)},a:{}}</script> 
-<title>Energy Infrastructure &amp; Utility Services | Centuri</title> <meta 
+ 
+### String: "1010" (s): i = 0
 
-## http-equiv="x-ua-compatible" content="ie=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> 
 
-## <meta name="format-detection" content="telephone=no"> 
+``` 
+<script>document.seraph_
+accel_usbpb=document.createElement;
+seraph_accel_izrbpb={add:function(b,a=10)
+{void 0===this.a[a]&&
+(this.a[a]=[]);this.a[a].push(b)},a:{}}</script> 
+<title>
+Energy Infrastructure 
+&amp; Utility Services | 
+Centuri</title>
+<meta  http-equiv="x-ua-compatible" content="ie=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> 
 
-## <script async src="https://www.googletagmanager.com/gtag/js?id=G-YBBV48SHVE" type="o/js-lzl"></script> 
+ <meta name="format-detection" content="telephone=no"> 
+
+<script async:src="https://www.googletagmanager.
+com/
+gtag/js?id=G-YBBV48SHVE" 
+type="o/js-lzl"></script> 
 
 ## <script type="o/js-lzl">
       window.dataLayer = window.dataLayer || [];
