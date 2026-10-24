@@ -1,29 +1,51 @@
-## class Private.Chosen144JudahMain {
-  public static void main(String args[])
-  {
-    System.out.println("Hello, octal-8!");
-  }
-} 
-×× private.<Judahmain>public.key
-      ABI: 6E1101560 r = A x 8
-     - "Explorer.xpnetwork: (octalbase)"-UTF-8
+## class Private.Chosen144JudahMain
+
+# public static void main(String args[])
+  
+# System.out.println("Hello, octal-8!");
+
+* private.<Judahmain>public.key
+
+* ABI: 6E1101560 r = A x 8
+     - Explorer.xpnetwork:(octalbase)-UTF-8
+
      - [F = 1111] +
+
      - [3 = 0011] +
+
      - [F = 1111] +
+
      - [C = 1100] +
+
      - [0 = 0000] +
+
      - [F = 1111] +
+
      - [3 = 0011] = [ F 3 F C 0 F 3 ].
+
      - [7 = 111] +
+
      - [4 = 100] +
+
      - [7 = 111] +
+
      - [7 = 111] +
+
      - [6 = 110] +
+
      - [0 = 000] +
+
      - [1 = 001] +
+
      - [7 = 111] =
-     - ["octalbase"-(8)"["74776017"]:["(7,4,7,7)&(6,0,1,7)"],"Combined To Octal:"["74776017"]".
-     ["Hexadecimal-""[""F 3 F C 0 F 3""]";
+
+     - [octalbase(8)74776017]
+
+** [(7,4,7,7)&(6,0,1,7)],
+
+## Combined To Octalbase(8):74776017
+
+## Hexadecimal-F 3 F C 0 F 3;
 
 l[![Go Report Card](https://goreportcard.com/badge/github.com/hostinger/fireactions)](https://goreportcard.com/report/github.com/hostinger/fireactions)
 
