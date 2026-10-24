@@ -46,7 +46,62 @@
 ## Combined To Octalbase(8):74776017
 
 ## Hexadecimal-F 3 F C 0 F 3;
+noscript class="no-script">
+  <span class="icon-error">⚠</span>
+  <p>You need to enable JavaScript to use this site.</p>
+</noscript>
 
+<a class="visually-hidden focusable skip-link" href="#content-main">Skip to main content</a>
+<!--[--><!--[--><!--[--><!----> <div class="layout-root flex min-h-screen flex-col svelte-12qhfyh"><header class="layout-header fixed top-0 left-0 right-0 z-50 transition-all duration-300 ease-out text-primary-4 svelte-12qhfyh"><div class="layout-header__inner ic-container mx-auto flex max-w-[1200px] flex-wrap items-center justify-between gap-4 py-4 md:py-7 md:gap-8 svelte-12qhfyh"><div class="flex items-center justify-between w-full svelte-12qhfyh"><a class="layout-header__logo block text-inherit no-underline mr-10 svelte-12qhfyh" href="/" aria-label="Serve"><!--[--><img src="https://images.ctfassets.net/ktf4nbh0ntka/2fgra82x11Y0e4ZqLNgJCD/2cd0fb5aaf8f62c23effe4ac4f27c89e/serve-blue-green.svg" alt="Serve" width="197" height="55" class="layout-header__logo-img h-8 w-auto primary svelte-12qhfyh"/> <!--[!--><!--]--><!--]--></a> <button type="button" class="layout-header__menu-toggle inline-flex h-11 shrink-0 items-center justify-center rounded border border-current/25 text-inherit md:hidden svelte-12qhfyh" aria-expanded="false" aria-controls="main-navigation" aria-label="Open menu"><!--[!--><svg class="h-6 w-6 svelte-12qhfyh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke-linecap="round" class="svelte-12qhfyh"></path></svg><!--]--></button> <nav id="main-navigation" class="layout-header__nav max-md:fixed max-md:inset-0 max-md:z-60 max-md:flex-col justify-between max-md:overflow-y-auto max-md:px-6 max-md:pb-10 max-md:top-19 max-md:pt-10 md:relative md:flex md:flex-nowrap max-md:bg-primary-3 md:w-full max-md:hidden svelte-12qhfyh" aria-label="Main"><ul class="layout-header__nav-list m-0 flex list-none flex-col gap-8 p-0 md:flex-row md:flex-wrap md:items-center md:gap-6 svelte-12qhfyh"><!--[--><li id="header-nav-item-1SbiFCnplrUDtHuAshE1su" class="layout-header__nav-item relative svelte-12qhfyh"><div class="flex items-center gap-0 md:inline-flex svelte-12qhfyh"><a class="layout-header__nav-link svelte-12qhfyh" href="#" aria-expanded="false" aria-haspopup="menu" aria-controls="header-subnav-1SbiFCnplrUDtHuAshE1su"><span class="layout-header__nav-label font-bold svelte-12qhfyh" data-rich-text=""><!----><p>Products</p><!----></span></a> <!--[--><button type="button" class="layout-header__subnav-toggle inline-flex shrink-0 items-center justify-center rounded px-2 svelte-12qhfyh" tabindex="-1" aria-label="Toggle submenu"><svg class="layout-header__subnav-chevron h-4 w-4 transition-transform svelte-12qhfyh" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2.5 4.5L6 8l3.5-3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="svelte-12qhfyh"></path></svg></button><!--]--></div> <!--[--><ul id="header-subnav-1SbiFCnplrUDtHuAshE1su" class="layout-header__subnav m-0 list-none flex-col gap-1 px-6 my-6 md:py-6 max-md:border-l-1 max-md:border-l-primary-2 svelte-12qhfyh" role="list"><!--[--><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/serve-visa-free-reloads"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Free Reloads</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/serve-visa-cash-back"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Cash Back</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/pay-as-you-go"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Pay As You Go</p><!----></span></a></li><!--]--></ul><!--]--></li><li id="header-nav-item-4KyLjP1BhtceMxvyNB96x4" class="layout-header__nav-item relative svelte-12qhfyh"><div class="flex items-center gap-0 md:inline-flex svelte-12qhfyh"><a class="layout-header__nav-link svelte-12qhfyh" href="#" aria-expanded="false" aria-haspopup="menu" aria-controls="header-subnav-4KyLjP1BhtceMxvyNB96x4"><span class="layout-header__nav-label font-bold svelte-12qhfyh" data-rich-text=""><!----><p>Benefits</p><!----></span></a> <!--[--><button type="button" class="layout-header__subnav-toggle inline-flex shrink-0 items-center justify-center rounded px-2 svelte-12qhfyh" tabindex="-1" aria-label="Toggle submenu"><svg class="layout-header__subnav-chevron h-4 w-4 transition-transform svelte-12qhfyh" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2.5 4.5L6 8l3.5-3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="svelte-12qhfyh"></path></svg></button><!--]--></div> <!--[--><ul id="header-subnav-4KyLjP1BhtceMxvyNB96x4" class="layout-header__subnav m-0 list-none flex-col gap-1 px-6 my-6 md:py-6 max-md:border-l-1 max-md:border-l-primary-2 svelte-12qhfyh" role="list"><!--[--><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/enroll-in-direct-deposit"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Early Direct Deposit</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/add-cash"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Add Cash</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/cash-a-check"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Cash a Check</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/atm-withdrawals"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>ATM Withdrawals</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/pay-your-bills"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Pay Your Bills</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/subaccounts"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Subaccounts</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/security"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Security &amp; Protection</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/get-the-mobile-app"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Get the Mobile App</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/money-transfer-pickup"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Money Transfer / Pickup</p><!----></span></a></li><li class="layout-header__subnav-item mb-4 last:mb-0 text-nowrap svelte-12qhfyh"><a class="layout-header__nav-link layout-header__nav-link--sub text-[0.9rem] svelte-12qhfyh" href="/mobile-transfers"><span class="layout-header__nav-label svelte-12qhfyh" data-rich-text=""><!----><p>Mobile Money Transfers</p><!----></span></a></li><!--]--></ul><!--]--></li><li id="header-nav-item-3079a96tEilHk43jc35IMq" class="layout-header__nav-item relative svelte-12qhfyh"><div class="flex items-center gap-0 md:inline-flex svelte-12qhfyh"><a class="layout-header__nav-link svelte-12qhfyh" href="/faqs"><span class="layout-header__nav-label font-bold svelte-12qhfyh" data-rich-text=""><!----><p>FAQs</p><!----></span></a> <!--[!--><!--]--></div> <!--[!--><!--]--></li><!--]--> <li class="svelte-12qhfyh"><!--[-->
+
+- a class="layout-header__login-link no-underline hover:underline font-bold flex items-center gap-2 login svelte-12qhfyh
+
+- a href="https://secure.serve.com/
+Login?intlink=
+us
+
+-serve
+
+-marketing
+
+-home
+
+-home
+
+-incomm2018
+
+-header
+
+-login
+
+- target="_blank" 
+
+- rel="noopener 
+
+- noreferrer
+
+<svg width="16" height="20" 
+viewBox="0 0 16 20" class="ic-icon__svg svelte-12qhfyh" focusable="true">
+
+<g fill="currentcolor" fill-rule="evenodd" class="svelte-12qhfyh"><path d="M2.223 20.777h11.11v-6.666H2.224v6.666zM4.445 8.555c0-1.837 1.494-3.333 3.333-3.333 1.838 0 3.333 1.496 3.333 3.333v3.334H4.445V8.555zm8.889 3.334V8.555C13.334 5.485 10.846 3 7.778 3c-3.07 0-5.555 2.486-5.555 5.555v3.334C.996 11.89 0 12.883 0 14.111v6.666C0 22.004.996 23 2.223 23h11.11c1.227 0 2.222-.996 2.222-2.223v-6.666c0-1.228-.995-2.222-2.221-2.222z" transform="translate(-566 -35) translate(-1 -1) translate(567 33)" class="svelte-12qhfyh"></path></g></svg> Log In</a><!--]--></li></ul> <div class="layout-header__actions mt-8 flex flex-col gap-3 md:hidden search svelte-12qhfyh"><form class="search__form flex justify-between gap-4 flex-col md:flex-row svelte-12qhfyh" action="/search-results" method="get" role="search"><label for="search-query-mb" class="search__label sr-only svelte-12qhfyh">Search</label> <input id="search-query-mb" type="search" name="q" class="search__input bg-primary-3 md:w-[85%] w-full p-4 svelte-12qhfyh" placeholder="Search" aria-label="Search" value=""/> <button type="submit" tabindex="-1" class="search__button sr-only svelte-12qhfyh">Search</button></form> <!--[--><!--[1--><button type="button" class="ic-button ic-button--secondary layout-header__cta w-full py-4 md:py-3 px-5 inline-block modal-button">Get Started</button> <dialog class="ic-button__modal " aria-modal="true"><div class="ic-button__modal-inner relative"><div class="ic-button__modal-header "><button type="button" class="ic-button__modal-close" aria-label="Close modal"><svg class="ic-button__modal-close-icon h-10 w-10 " viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"><path d="M202.82861,197.17188a3.99991,3.99991,0,1,1-5.65722,5.65624L128,133.65723,58.82861,202.82812a3.99991,3.99991,0,0,1-5.65722-5.65624L122.343,128,53.17139,58.82812a3.99991,3.99991,0,0,1,5.65722-5.65624L128,122.34277l69.17139-69.17089a3.99991,3.99991,0,0,1,5.65722,5.65624L133.657,128Z"></path></svg> <!--[!--><!--]--></button> <!--[!--><!--]--></div> <div class="ic-button__modal-body"><div class="ic-button__modal-cards"><!--[--><div class="ic-button__modal-card ic-button__modal-card--text-only"><div class="ic-button__modal-c
+IEEE: 802.16: (wifi-max)wireless-communication
+E:/volume/medical>
+• windows(DOS): [c:>] • OS_X(BASHSHELL): my-imac:/me$ • Linux(BASHSHELL)[root@myserver/]#
+
+function double (x)
+{ $y = 2*x; return $y; }
+
+mac address: 00:0d:83:b1:c0:8e
+bits: 1010_1111
+-- bb74
+
+-- BB74
+
+-- IEEE-1394,FIREWIRE,HIGHSPEED:
+
+<1s>
+
+String: "1010" (s): i = 0
 l[![Go Report Card](https://goreportcard.com/badge/github.com/hostinger/fireactions)](https://goreportcard.com/report/github.com/hostinger/fireactions)
 
 ![Banner](docs/img/banner_violet.png)
