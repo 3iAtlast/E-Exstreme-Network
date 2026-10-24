@@ -1,9 +1,10 @@
-class Private.Chosen144JudahMain {
+## class Private.Chosen144JudahMain {
   public static void main(String args[])
   {
     System.out.println("Hello, octal-8!");
   }
-} private.<Judahmain>public.key
+} 
+×× private.<Judahmain>public.key
       ABI: 6E1101560 r = A x 8
      - "Explorer.xpnetwork: (octalbase)"-UTF-8
      - [F = 1111] +
