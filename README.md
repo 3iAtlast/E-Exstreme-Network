@@ -46,8 +46,8 @@
 ## Combined To Octalbase(8):74776017
 
 ## Hexadecimal-F 3 F C 0 F 3;
-noscript class="no-script">
-  <span class="icon-error">⚠</span>
+noscript class="judahmain
+  <span class="judahmain">⚠</span>
   <p>You need to enable JavaScript to use this site.</p>
 </noscript>
 
