@@ -4,9 +4,9 @@
   
 # System.out.println("Hello, octal-8!");
 
-* private.<Judahmain>public.key
+- Judahmain.public.key
 
-* ABI: 6E1101560 r = A x 8
+- ABI: 6E1101560 r = A x 8
      - Explorer.xpnetwork:(octalbase)-UTF-8
 
      - [F = 1111] +
