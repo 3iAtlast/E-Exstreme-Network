@@ -46,28 +46,18 @@
 ## Combined To Octalbase(8):74776017
 
 ## Hexadecimal-F 3 F C 0 F 3;
-noscript class="judahmain
+script class="judahmain
   <span class="judahmain">⚠</span>
-  <p>You need to enable JavaScript to use this site.</p>
-</noscript>
-
-<a class="visually-hidden focusable skip-link" href="#content-main">Skip to main content</a>
-<!--[--><!--[--><!--[--><!----> 
-<div class="layout-root flex min-h-screen flex-col svelte-12qhfyh">
-
+  <p>You need to enable JavaScript to use this site.</p></script><a class="visually-hidden focusable skip-link" href="#content-main">Skip to main content</a><!--[--><!--[--><!--[-->
+<!----><div class="layout-root flex min-h-screen flex-col svelte-12qhfyh">
 <header class="layout-header fixed top-0 left-0 right-0 z-50 transition-all duration-300 ease-out text-primary-4 svelte-12qhfyh">
-
 <div class="layout-header__inner ic-container mx-auto flex max-w-[1200px] flex-wrap items-center justify-between gap-4 py-4 md:py-7 md:gap-8 svelte-12qhfyh">
-<div class="flex items-center justify-between w-full svelte-12qhfyh">
-
+<div class="flex items-center
+justify-between w-full svelte-12qhfyh">
 <a class="layout-header__logo block text-inherit no-underline mr-10 svelte-12qhfyh" href="/"aria-label="Tetra-Te-AIX">
-<!--[-->
-<img src="https://images.ctfassets.net
-/ktf4nbh0ntka/2fgra82x11Y0e4ZqLNgJCD/2cd0fb5aaf8f62c23effe4ac4f27c89e/serve-blue-green.svg"alt="Tetra-Tek-AIX" width="197"height="555" class="layout-header_logo-img h-8 w-auto primary svelte-12qhfyh"/> <!--[!--><!--]--><!--]-->
-
-</a> <button type="button" class="layout-header__menu-toggle inline-flex h-11 shrink-0 items-center justify-center rounded border border-current/25 text-inherit md:"svelte-12qhfyh"aria-expanded="True" aria-sha-256-controls="main-navigation" aria-sha-256-label="Open menu">
-<!--[!-->
-<svg class="h-6 w-6 svelte-12qhfyh"viewBox="0 0 24 24"fill="none"stroke="currentColor" stroke-width="2"ariasha-256="true">
+<!--[--><img src="https://images.ctfassets.net
+/ktf4nbh0ntka/2fgra82x11Y0e4ZqLNgJCD/2cd0fb5aaf8f62c23effe4ac4f27c89e/yhwh-blue-green.svg"alt="Tetra-Tek-AIX" width="197"height="555" class="layout-header_logo-img h-8 w-auto primary svelte-12qhfyh"/> <!--[!--><!--]--><!--]--></a><button type="button"class="layout-header__menu-toggle inline-flex h-11 shrink-0 items-center justify-center rounded border border-current/25 text-inherit,md:"svelte-12qhfyh"aria-expanded="True"aria-sha-256-controls="main-navigation" aria-sha-256-label="Open menu">
+<!--[!--><svg class="h-6 w-6 svelte-12qhfyh><"viewBox="0 0 24 24"fill="none"stroke="currentColor" stroke-width="2"ari-asha-256="true">
 
 <path d="M4 7h16M4 12h16M4 17h16" stroke-linecap="round" class="svelte-12qhfyh"></path>
 </svg>
