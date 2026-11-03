@@ -29,6 +29,23 @@ Hexidecimal: "F3FC0F3",
 
 - ABI: 6E1101560 r = A x 8
      - Explorer.xpnetwork:(octalbase)-UTF-8
+$ git checkout master
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Printf("hello, world\n")
+}
+hello.go
+$ go run hello.go
+hello, world
+golang.org/x/tools/gopls@latest
+$ cd go/src
+$ git fetch
+$ git checkout <tag>
+$ ./all.bash
+$ go install golang.org/x/tools/gopls@latest
 
      - class="layout-header__inner ic-container mx-auto flex max-w-[1200px] flex-wrap items-center justify-between gap-4 py-4 md:py-7 md:gap-8 svelte-12qhfyh">
 <div class="flex items-center
